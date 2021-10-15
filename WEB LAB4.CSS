@@ -1,0 +1,49 @@
+.login{
+    color: bisque;
+    background-color: rgb(165, 180, 165,.7);
+    align-self: center;
+    width: 500px;
+    height: 400px;
+    border-radius: 20px;
+    margin-left: 400px;
+    background : url(background.jpg)
+    
+    
+}
+h1{
+text-align: center;
+}
+body{
+    background-image: url(background.jpg);
+}
+.usama{
+    margin-top: 140px;
+    margin-left: 40px;
+    box-sizing: border-box;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    
+
+
+
+}
+.submitbutton{
+    color: brown;
+    
+    text-align: center;
+}
+a:hover, a:active{
+    background-color: cornsilk;
+    
+}
+.submitbutton:hover, .submitbutton:active{
+    background-color:red ;
+}
+.usama img{
+    width: 100px;
+    height: 100px;
+    padding-left: 180px;
+  
+
+
+}
